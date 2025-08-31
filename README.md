@@ -1,8 +1,14 @@
 ### Requires
     Python 3.8 or higher is required.
 ### install
-    py -3 -m pip install -U disnake
-    pip3 install python-a2s
+    python -m pip install --upgrade pip
+
+    pip install -U disnake
+    pip install -U matplotlib
+    pip3 install -U aiohttp
+    pip install requests
+    pip install battlemetrics
+
 #### Create app
     https://discord.com/developers/applications/
 and get token
