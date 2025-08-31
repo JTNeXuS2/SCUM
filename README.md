@@ -23,9 +23,6 @@ enter /commandprefex_sendhere (default in config /pve_sendhere) in channel
 
 ### have fun!
 
-![image](https://github.com/JTNeXuS2/SoulMask.Tools/assets/88918931/0ea532f8-5400-4e70-b1a8-b242a88223d1)
-
-
 
 
 
